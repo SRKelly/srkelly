@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Jack of some trades, master of absolutely none. 
+
+Just using this as a place to hide some of the code I put together.
+
 <!--
 **SRKelly/srkelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
