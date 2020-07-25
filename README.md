@@ -4,11 +4,9 @@
   
 I am a Second Year medical student at University College Dublin.
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 💬 Ask me about 
-- ⚡ Quote:
+- 🔭 I’m currently working on analysing non-attendance in the national Diabetic Retinopathy screening programme!
+- 🌱 I’m currently learning GI/GU in medicine and how to build a website with flask/python.
+
 - 📫 How to reach me:
 
 <!--
