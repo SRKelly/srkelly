@@ -7,6 +7,9 @@ I am a Second Year medical student at University College Dublin.
 - 🔭 I’m currently working on analysing non-attendance in the national Diabetic Retinopathy screening programme!
 - 🌱 I’m currently learning GI/GU in medicine and how to build a website with flask/python.
 
+
+I'm semi-active on Kaggle working on my analysis skills:
+https://www.kaggle.com/fermat1
 <!--
 **SRKelly/srkelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
