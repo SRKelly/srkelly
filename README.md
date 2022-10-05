@@ -2,7 +2,7 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
   
-I am a Third Year medical student at University College Dublin.
+I am a Final Year medical student at University College Dublin.
 
 - 🔭 I’m currently working on analysing non-attendance in the national Diabetic Retinopathy screening programme!
 
